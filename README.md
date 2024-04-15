@@ -19,7 +19,7 @@ Installation:
 
     bash
 
-    cd chat-room
+    cd ChatRoom
     npm install
     cd client
     npm install
@@ -27,8 +27,6 @@ Installation:
 Starting the Server:
 
     Start the server by running the following command from the project root directory:
-
-    sql
 
     npm start
 
